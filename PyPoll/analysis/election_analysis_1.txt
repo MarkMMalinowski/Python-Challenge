@@ -1,0 +1,8 @@
+Total Votes: 500
+Khan:315 (63.0%)
+Li:70 (14.0%)
+Correy:100 (20.0%)
+O'Tooley:15 (3.0%)
+
+The winning candidate is Khan
+The greatest vote percentage is: 63.0%

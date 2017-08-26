@@ -24,7 +24,7 @@ import csv
 
 # Files to Load / Output
 
-file_to_load = "Resources/election_data_1.csv"
+file_to_load = "data/election_data_1.csv"
 file_to_output = "analysis/election_analysis_1.txt"
 
 # Variables to Track

@@ -23,7 +23,7 @@
 import csv
 
 # Files to Load
-file_to_load = "Resources/budget_data_1.csv"
+file_to_load = "data/budget_data_1.csv"
 file_to_output = "analysis/budget_analysis_1.txt"
 
 # Variables to Track
